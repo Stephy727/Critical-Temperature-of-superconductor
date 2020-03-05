@@ -4,5 +4,7 @@
 a superconductor's critical temperature.
 
 1. developed and compared multiple models;
-2. described and justifed the choice of your models;
-3. analyzed and interpreted the  results
+2. described and justifed the choice of the models;
+3. analyzed and interpreted the results
+
+Detailed explanation in the notebook
